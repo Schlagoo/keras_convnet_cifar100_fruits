@@ -1,6 +1,7 @@
 """
     Title: Keras Convnet CIFAR-100 fruits
     Description: Deep convolutional neural network created with keras to classify fruits of CIFAR-100 dataset
+    Accuracy:    ~ 86% on train- and test-data
     Author:      Pascal Schlaak
     Date:        02/03/2019
     Python:      3.6.7
