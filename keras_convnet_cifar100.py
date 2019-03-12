@@ -189,3 +189,4 @@ print("Test-accuracy: " + str(round(score[1], 3) * 100) + "%\n" + "Test-loss: " 
 
 # Save model to file
 model.save("model.h5")
+
